@@ -10,7 +10,7 @@ Porsche
 BMW 
 Biergarten / beer garden
 Ratskeller 
-Dirndel 
+Dirndel / feminine dress 
 Lederhose / leather pants
 Schloss / Lock
 wettbewerbsfaehig / competitive
@@ -18,6 +18,6 @@ Mehlhase
 Gebaeck / pastries
 Baeckerei / Bakery
 Hund / Dog
-Doener 
+Doener / doner
 Apfelkuchen / Apple Cake 
-Eltz
+Eltz / castle?
