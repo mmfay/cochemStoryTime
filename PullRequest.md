@@ -2,3 +2,4 @@
 
 > Matthew Fay https://github.com/jbaranie/herrenchiemsee_icebreaker/pull/4
 > Mike Smith https://github.com/jbaranie/herrenchiemsee_icebreaker/pull/6
+> Ethan Haga https://github.com/jbaranie/herrenchiemsee_icebreaker/pull/10
